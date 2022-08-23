@@ -1,1 +1,1 @@
-# Heart-Disease-Predictoin-Tree-Model
+# Heart-Disease-Prediction-Tree-Model
